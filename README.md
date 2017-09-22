@@ -10,11 +10,11 @@ The aim of this repository is
  
  ## Websites
  ### Algorithm
- [VisuAlgo](https://visualgo.net/en)
- - Visualizations of most data structures and algorithms through animations
+ - [VisuAlgo](https://visualgo.net/en) : Visualizations of data structures and algorithms through animations
  
  ### Processing
- [Open Processing](https://www.openprocessing.org/)
- - The platform to create, fork and explore interactive sketches in p5js.
+ - [Open Processing](https://www.openprocessing.org/) : The platform to create, fork and explore interactive sketches in p5js.
  
  ## Lecture Notes
+ 
+ ## Videos
