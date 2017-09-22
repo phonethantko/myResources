@@ -9,5 +9,8 @@ The aim of this repository is
  ## Booklist
  
  ## Websites
+ ### Algorithm
+ [**VisuAlgo**](https://visualgo.net/en)
+ - Visualizations of most data structures and algorithms through animations
  
  ## Lecture Notes
