@@ -7,6 +7,11 @@ The aim of this repository is
  >**Disclaimer**: Some of the readings here are completed as part of the essential reading for my undergrad. The remaining however, are consumed entirely out of personal interest.
  
  ## Booklist
+ ### Database
+ *An Introduction to Database Systems* - C.J.Date
+ 
+ ### Processing
+ *Processing: A Programming Handbook for Visual Designers and Artists* - Casey Reas
  
  ## Websites
  ### Algorithm
