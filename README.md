@@ -10,13 +10,18 @@ The aim of this repository is
  ### Database
  *An Introduction to Database Systems* - C.J.Date
  
+ ### Mathematics
+ - *Mathematics for Computer Science* - Albert R Meyer
+ - *Calculus with Analytic Geometry, Second Edition* - George F Simmons
+ 
  ### Processing
- *Processing: A Programming Handbook for Visual Designers and Artists* - Casey Reas
+ - *Processing: A Programming Handbook for Visual Designers and Artists* - Casey Reas
+ - *Learning Processing* - Daniel Shiffman
  
  ### Software Engineering & Algorithm Designs
  - *Software Engineering: A Practitioner's Approach* - R.Pressman
- - *UML Distilled, Third Edition* - M.Fowler
- - *Using UML, Second Edition* - P.Stevens
+ - *UML Distilled, Third Edition* - Martin Fowler
+ - *Using UML, Second Edition* - Perdita Stevens with Rob Pooley
  
  ## Websites
  ### Algorithm
