@@ -18,10 +18,15 @@ The aim of this repository is
  - *Processing: A Programming Handbook for Visual Designers and Artists* - Casey Reas
  - *Learning Processing* - Daniel Shiffman
  
- ### Software Engineering & Algorithm Designs
+ ### Software Engineering
  - *Software Engineering: A Practitioner's Approach* - R.Pressman
  - *UML Distilled, Third Edition* - Martin Fowler
  - *Using UML, Second Edition* - Perdita Stevens with Rob Pooley
+ 
+ ### Algorithms
+ - *Introduction to Algorithms, Third Edition* - Thomas H.Cormen
+ - *Introduction to Design and Analysis of Algorithms, Third Edition* - Anany Levitin
+ - *Data Structures and Algorithms in Java, Sixth Edition* - Michael T.Goodrich
  
  ## Websites
  ### Algorithm
@@ -33,6 +38,3 @@ The aim of this repository is
  ### Processing
  - [Open Processing](https://www.openprocessing.org/) : The platform to create, fork and explore interactive sketches in p5js.
  
- ## Lecture Notes
- 
- ## Videos
