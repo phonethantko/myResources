@@ -38,3 +38,6 @@ The aim of this repository is
  ### Processing
  - [Open Processing](https://www.openprocessing.org/) : The platform to create, fork and explore interactive sketches in p5js.
  
+## Papers
+### Computer Vision
+- [Sparse Representation for Computer Vision and Pattern Recognition](http://ieeexplore.ieee.org/document/5456194/)
