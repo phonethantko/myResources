@@ -7,8 +7,16 @@ The aim of this repository is
  >**Disclaimer**: Some of the readings here are completed as part of the essential reading for my undergrad. The remaining however, are consumed entirely out of personal interest.
  
  ## Booklist
+ 
+ ### Programming Languages
+ #### Java
+ - *Head First Java* - Kathy Sierra & Bert Bates
+ - *Core Java (Volume I + Volume II)* - Cay S. Horstmann & Gary Cornell
+ - *Teach Yourself Java in 21 Days*
+ 
  ### Database
- *An Introduction to Database Systems* - C.J.Date
+ - *An Introduction to Database Systems* - C.J.Date
+ - *Head First SQL* - Lynn Beighley
  
  ### Mathematics
  - *Mathematics for Computer Science* - Albert R Meyer
