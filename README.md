@@ -13,18 +13,20 @@ The aim of this repository is
  - *Head First Java* - Kathy Sierra & Bert Bates
  - *Core Java (Volume I + Volume II)* - Cay S. Horstmann & Gary Cornell
  - *Teach Yourself Java in 21 Days*
+ - *Effective Java, Second Edition* - Joshua Bloch
+ 
+ #### Processing
+ - *Processing: A Programming Handbook for Visual Designers and Artists* - Casey Reas
+ - *Learning Processing* - Daniel Shiffman
  
  ### Database
  - *An Introduction to Database Systems* - C.J.Date
  - *Head First SQL* - Lynn Beighley
+ - *Database Systems: A Practical Approach to Design, Implementation, and Management, Sixth edition* - Thomas Connolly & Carolyn Begg
  
  ### Mathematics
  - *Mathematics for Computer Science* - Albert R Meyer
  - *Calculus with Analytic Geometry, Second Edition* - George F Simmons
- 
- ### Processing
- - *Processing: A Programming Handbook for Visual Designers and Artists* - Casey Reas
- - *Learning Processing* - Daniel Shiffman
  
  ### Software Engineering
  - *Software Engineering: A Practitioner's Approach* - R.Pressman
@@ -35,6 +37,10 @@ The aim of this repository is
  - *Introduction to Algorithms, Third Edition* - Thomas H.Cormen
  - *Introduction to Design and Analysis of Algorithms, Third Edition* - Anany Levitin
  - *Data Structures and Algorithms in Java, Sixth Edition* - Michael T.Goodrich
+ 
+ ### Artificial Intelligence
+ 
+ ### Computer Vision
  
  ## Websites
  ### Algorithm
